@@ -1,8 +1,0 @@
-DEMOSTRACIONES
-
-Unidad 2. Deducción de ecuaciones
-Unidad 9. Teorema ejes paralelos
-Unidad 12. Péndulo simple. Amplitud y ángulo fase
-Unidad 13. TF Hidrostática(Pascal)- Continuidad- Teorema Bernoulli - Venturi
-	Optica
-	Ondas
